@@ -1,0 +1,7 @@
+﻿--2015-12-03修改说明,(详见permission_20151203.sql)
+1. 修改role_permission,分离出permission信息,role_permission仅仅保留roleid,permissionid和describe,其他字段移动到permission表中
+2. 增加permission表,字段基本来源于role_permission表
+3. 增加log_info表,记录日志信息
+4. 修改uesr表,增加salt字段,表示密码加密的离散值
+5. 修改structure,增加sn字段,表示模块代码;增加priority字段,表示优先级,用于菜单显示的排序;
+
