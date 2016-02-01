@@ -2,5 +2,6 @@
 **/target/**
 *.iml
 .idea
+.svn
 node_modules/
 bower_modules/
