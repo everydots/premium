@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>Premium Permission</title>
+    <title>Premium Permission 1</title>
   </head>
   <body>
 <p>hello worlds</p>
