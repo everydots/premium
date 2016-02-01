@@ -12,7 +12,8 @@
         <module>permission-ui</module>
         <module>permission-core</module>
         <module>permission-rest-services</module>
-    </modules>
+		<module>ansible</module>
+	</modules>
 	
 	
 	<properties>
