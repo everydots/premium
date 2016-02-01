@@ -51,12 +51,6 @@
 			<artifactId>spring-context-support</artifactId>
 		</dependency>
 		<!-- SPRING basic end -->
-		<!-- pcaptcha验证码 -->
-		<dependency>
-			<groupId>net.pusuo</groupId>
-			<artifactId>patchca</artifactId>
-		</dependency>
-
 		<!-- PERSISTENCE begin -->
 		<!-- hibernate -->
 		<dependency>
