@@ -8,12 +8,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>Premium Permission 1</title>
+    <title>Premium Permission 1111111</title>
   </head>
   <body>
 <p>hello worlds</p>
-
-
   <script data-main="scripts/main" src="modules/common/resources/thirdpart/require.js"></script>
   </body>
 </html>
