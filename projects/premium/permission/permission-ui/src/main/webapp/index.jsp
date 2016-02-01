@@ -11,7 +11,7 @@
     <title>Premium Permission</title>
   </head>
   <body>
-<p>hello worlds</p>
+   <p>hello worlds- test jenkins</p>
   <script data-main="scripts/main" src="modules/common/resources/thirdpart/require.js"></script>
   </body>
 </html>

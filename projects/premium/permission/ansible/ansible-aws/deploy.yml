@@ -1,8 +1,8 @@
 ---
-  - hosts: default
+  - hosts: jenkins
     vars:
       srcDir: /var/lib/jenkins/workspace/Premium Project/projects/premium/permission/permission-ui/target
       targetDir: /var/lib/tomcat7/webapps
     tasks:
        - name: Copy Jenkins build War to tomcat
-         copy: src={{srcDir}}/permission-ui.war dest={{targetDir}}/permission-ui.war
+         shell: cp {{srcDir}}/permission-ui.war {{targetDir}}/permission-ui.war
