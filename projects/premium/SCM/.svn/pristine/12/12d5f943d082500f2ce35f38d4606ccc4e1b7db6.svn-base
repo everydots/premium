@@ -1,8 +1,0 @@
-<div class="perm-left-panel">
-    <ul class="nav nav-pills nav-stacked nav-pills-stacked-example">
-        <li role="presentation" class="active"><a href="#">介绍</a></li>
-        <li role="presentation"><a href="#">采购订单</a></li>
-        <li role="presentation"><a href="#">交货历史</a></li>
-        <li role="presentation"><a href="#">对帐单</a></li>
-    </ul>
-</div>
